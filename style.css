@@ -1,0 +1,25 @@
+body {
+	margin: 1em auto 0 auto;
+	max-width: 80ex;
+	font-family: Georgia;
+	color: #333333;
+}
+
+#body1 {
+	margin-right: 1ex;
+	margin-left: 1ex;
+	text-align: justify;
+}
+
+h1 {
+	text-align: right;
+}
+
+#links {
+	width: 70ex;
+	text-align: center;
+}
+
+a {
+	color: #1111ff;
+}
