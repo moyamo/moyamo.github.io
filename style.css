@@ -1,7 +1,8 @@
 body {
-	margin: 1em auto 0 auto;
+	margin: 0 auto 0 auto;
+	padding: 1em 1em 1em 1em;
 	max-width: 80ex;
-	font-family: Georgia;
+	font-family: sans;
 	color: #333333;
 }
 
@@ -16,8 +17,12 @@ h1 {
 }
 
 #links {
-	width: 70ex;
+	width: 100%;
 	text-align: center;
+}
+
+#avatar {
+	width: 100%;
 }
 
 a {
